@@ -2,6 +2,8 @@
   <img src="./assets/profile-banner.svg" alt="Tapendra Chaudhary banner" width="100%" />
 </div>
 
+<!-- profile-readme-refresh: 2026-04-05 -->
+
 <div align="center">
   <a href="https://github.com/tapendra9104">
     <img src="https://komarev.com/ghpvc/?username=tapendra9104&style=flat-square&color=22c55e" alt="Profile views" />
